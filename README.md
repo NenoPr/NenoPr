@@ -15,7 +15,7 @@
 - [Memory Card Game](https://github.com/NenoPr/memory-card-OdinProject) → React -> Memory Card Game.  
 - [Weather app](https://github.com/NenoPr/weather-app-TheOdinProject) → React -> Weather app.
 - [Image Tagging Game](https://github.com/NenoPr/find-me-image-tagging-game) → React + MongoDB -> Image Tagging Game.  
-- [Studybuddy](https://github.com/NenoPr/weather-app-TheOdinProject) → React + Node.js + Express + Postgresql -> An AI powered note manager for studying.  
+- [Studybuddy](https://github.com/NenoPr/AI_Study_Buddy) → React + Node.js + Express + Postgresql -> An AI powered note manager for studying.  
 
 ### 📫 Let’s Connect
 - 🌐 [Portfolio Website](https://portfolio-top.vercel.app/)  
